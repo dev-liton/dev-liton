@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Php, MySQL**
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-liton-721354338/**
+- 📫 How to reach me **https://www.linkedin.com/in/md-liton**
 
 - 📄 Know about my experiences [https://x.com/ismailliton784](https://x.com/ismailliton784)
 
