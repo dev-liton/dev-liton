@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-liton" alt="dev-liton" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/ismailliton784" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ismailliton784?logo=twitter&style=for-the-badge" alt="https://x.com/ismailliton784" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/ismailliton784" target="blank"></a> </p>
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/)
 
