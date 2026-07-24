@@ -1,27 +1,30 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFoCzYUI2_kxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731427603065?e=1744848000&v=beta&t=RjTxem5ZFENah5145YVUKoe3aV_CxjhPmlR0LyUvESM">
-<h1 align="center">Hi 👋,This is MD LITON</h1>
+<img src"https://media.licdn.com/dms/image/v2/D5616AQEzGTb5jlFkKQ/profile-displaybackgroundimage-shrink_200_800/B56Z89IO7lH4AQ-/0/1783436996575?e=1786579200&v=beta&t=IXD-sQinZ2hzAy6Q1KR104eYPl9G1WzHD4jjqGQyxvk">
+
+
+<h1 align="center">Hi 👋, I'm MD LITON</h1>
 <h3 align="center">A passionate Web Designer & WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-liton&label=Profile%20views&color=0e75b6&style=flat" alt="dev-liton" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-liton" alt="dev-liton" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/ismailliton784" target="blank"></a> </p>
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/users/liton3d/seller_dashboard)
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/)
+- 🌱 I’m currently learning **JavaScript | PHP | MySQL | WordPress**
 
-- 🌱 I’m currently learning **JavaScript, Php, MySQL**
+- 👯 I’m looking to collaborate on [Freelancer](https://www.freelancer.com.bd/u/devliton86)
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-liton**
+- 🤝 I’m looking for help with [Linkedin](https://www.linkedin.com/in/md-liton-721354338/)
 
-- 📄 Know about my experiences [https://x.com/ismailliton784](https://x.com/ismailliton784)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-liton-721354338/](https://www.linkedin.com/in/md-liton-721354338/)
+
+- 📫 How to reach me **ismailliton784@gmail.com**
+
+- ⚡ Fun fact **Developers spend more time debugging than coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/ismailliton784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ismailliton784" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-liton-721354338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-liton-721354338/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/engineermdliton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/engineermdliton" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwfplgwbm7lkmonssvs0tuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwfplgwbm7lkmonssvs0tuq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-liton-721354338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-liton-721354338/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
