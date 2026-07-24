@@ -1,4 +1,4 @@
-<img src"https://media.licdn.com/dms/image/v2/D5616AQEzGTb5jlFkKQ/profile-displaybackgroundimage-shrink_200_800/B56Z89IO7lH4AQ-/0/1783436996575?e=1786579200&v=beta&t=IXD-sQinZ2hzAy6Q1KR104eYPl9G1WzHD4jjqGQyxvk">
+<img src"https://media.licdn.com/dms/image/v2/D5616AQEzGTb5jlFkKQ/profile-displaybackgroundimage-shrink_350_1400/B56Z89IO7lH4AU-/0/1783436996575?e=1786579200&v=beta&t=ekEBTU9P2LYoFmy9dD0HPm7rYcCW9DEGanQ1jzL0ioY">
 
 
 <h1 align="center">Hi 👋, I'm MD LITON</h1>
